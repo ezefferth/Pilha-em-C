@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480011864 source:c:\users\mat_1\documents\estrutura de dados\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+
